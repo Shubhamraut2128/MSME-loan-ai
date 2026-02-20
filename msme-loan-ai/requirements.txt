@@ -10,3 +10,4 @@ transformers
 sentence-transformers
 streamlit
 python-multipart
+uvicorn>=0.23.1
