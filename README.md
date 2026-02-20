@@ -8,7 +8,7 @@ It combines **FastAPI backend**, **ML risk assessment models**, **RAG-based poli
 ---
 
 ## 🗂 Project Structure
-
+```
 msme-loan-ai/
 ├── app/ # Backend (FastAPI)
 │ ├── main.py # FastAPI entry point
@@ -29,7 +29,7 @@ msme-loan-ai/
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
 
-
+```
 ---
 
 ## ⚙️ Installation
