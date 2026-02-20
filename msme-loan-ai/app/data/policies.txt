@@ -1,0 +1,9 @@
+MSME Loan Eligibility Rules:
+
+1. Business must be registered in India.
+2. Applicant age must be between 21 and 60 years.
+3. Business must have minimum 1 year of operation.
+4. CIBIL score should be above 650.
+5. Annual turnover should be above 5 lakh INR.
+6. Udyam Registration is preferred.
+7. GST registration required for loans above 10 lakh.

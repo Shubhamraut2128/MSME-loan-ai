@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+streamlit
+python-multipart
