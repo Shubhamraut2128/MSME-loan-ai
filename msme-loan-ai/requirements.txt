@@ -11,3 +11,4 @@ sentence-transformers
 streamlit
 python-multipart
 uvicorn>=0.23.1
+python-3.10.13
