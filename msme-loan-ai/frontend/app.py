@@ -12,7 +12,7 @@ profit = st.number_input("Net Profit")
 # Button action
 if st.button("Check Eligibility"):
     response = requests.post(
-        "http://127.0.0.1:8000/evaluate",
+        "https://msme-loan-ai.onrender.com/evaluate",
         json={
             "cibil": cibil,
             "monthly_turnover": turnover,
