@@ -1,6 +1,6 @@
 # MSME Loan AI 🚀
  
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.54-orange)]([https://streamlit.io/](https://msme-loan-ai-6nsmbpn9lq33o9bfvg2tiw.streamlit.app/)  
+([https://msme-loan-ai-6nsmbpn9lq33o9bfvg2tiw.streamlit.app/](https://msme-loan-ai-jpihfzdyqc5wtsqwifnqgs.streamlit.app/))  
 
 A production-ready AI system for **MSME loan eligibility, risk scoring, and policy-based decisioning**.  
 It combines **FastAPI backend**, **ML risk assessment models**, **RAG-based policy explanations**, and a **Streamlit frontend**.
