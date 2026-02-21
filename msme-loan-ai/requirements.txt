@@ -4,6 +4,7 @@ pandas
 numpy
 scikit-learn
 joblib
+langchain
 langchain-community
 faiss-cpu
 transformers
