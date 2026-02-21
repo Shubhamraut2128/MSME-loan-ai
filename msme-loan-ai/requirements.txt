@@ -4,7 +4,7 @@ pandas
 numpy
 scikit-learn
 joblib
-langchain
+langchain==0.0.350
 langchain-community
 faiss-cpu
 transformers
