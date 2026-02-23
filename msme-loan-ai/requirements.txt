@@ -9,7 +9,7 @@ joblib
 
 langchain==0.0.350
 langchain-community==0.0.20
-faiss-cpu==1.7.4
+faiss-cpu
 transformers
 sentence-transformers
 
